@@ -1,0 +1,31 @@
+
+
+train: /pycharm_workspace/ultralytics9.11/datasets/VOC/images/train
+val: /pycharm_workspace/ultralytics9.11/datasets/VOC/images/valid
+test: /pycharm_workspace/ultralytics9.11/datasets/VOC/images/test
+
+nc : 20
+
+names : [
+"aeroplane",
+"bicycle",
+"bird",
+"boat",
+"bottle",
+"bus",
+"car",
+"cat",
+"chair",
+"cow",
+"diningtable",
+"dog",
+"horse",
+"motorbike",
+"person",
+"pottedplant",
+"sheep",
+"sofa",
+"train",
+"tvmonitor"
+]
+
